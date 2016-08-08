@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest version of FreewayExpress and imports it into Munki.</string>
+	<string>Downloads the latest version of Freeway Express and imports it into Munki.
+
+SoftPress, the developers of Freeway Express, announced in July 2016 that they are closing down. Therefore, this recipe is deprecated and will be removed eventually.</string>
 	<key>Identifier</key>
 	<string>com.github.homebysix.munki.FreewayExpress</string>
 	<key>Input</key>

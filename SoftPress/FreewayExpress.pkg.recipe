@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest version of FreewayExpress and builds a package.</string>
+	<string>Downloads the latest version of Freeway Express and builds a package.
+
+SoftPress, the developers of Freeway Express, announced in July 2016 that they are closing down. Therefore, this recipe is deprecated and will be removed eventually.</string>
 	<key>Identifier</key>
 	<string>com.github.homebysix.pkg.FreewayExpress</string>
 	<key>Input</key>
